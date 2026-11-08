@@ -127,6 +127,12 @@ Trên PowerShell:
 .\detai7_app.exe
 ```
 
+Trên Linux / GitHub Codespaces (Terminal – Bash):
+
+```bash
+./detai7_app.exe
+```
+
 ## 8. Hướng dẫn sử dụng
 
 Sau khi chạy chương trình, người dùng lựa chọn chức năng trên menu chính:
